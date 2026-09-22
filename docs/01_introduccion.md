@@ -1,5 +1,7 @@
 ### 1.1. Título del reto : Desarrollo e implantación de una página web para un pequeño negocio con infraestructura de servidor y base de datos
 
+Este proyecto forma parte del Proyecto Intermodular de 2.º de ASIR.
+
 ### 1.2. Contexto
 
 El proyecto se plantea para un pequeño restaurante que actualmente no dispone de una página web propia. En esta situación, los clientes pueden realizar sus reservas principalmente mediante llamadas telefónicas.
