@@ -38,3 +38,5 @@ Desarrollar e implantar una página web para un pequeño restaurante que mejore 
 | Posibles inversores            | Personas interesadas en la evolución y expansión del negocio | Conocer la presencia y funcionamiento del restaurante                                |
 | Responsables de redes sociales | Colaboradores en la presencia digital del restaurante        | Disponer de información que puedan utilizar para mejorar la comunicación del negocio |
 | Otros negocios                 | Posibles interesados en una solución similar                 | Conocer el proyecto como referencia para sus propias necesidades                     |
+
+El proyecto se desarrollará teniendo en cuenta las necesidades de los diferentes interesados identificados.
